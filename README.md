@@ -1,4 +1,4 @@
-Re=modelling in Python of the dissolution of a polydisperse powder according to the Noyes-Whitney equation as described by Hintz and Johnson (1)
+Remodelling in Python of the dissolution of a polydisperse powder according to the Noyes-Whitney equation as described by Hintz and Johnson (1)
 
 
 1.
